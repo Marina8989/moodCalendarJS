@@ -1,0 +1,23 @@
+button{
+    cursor:pointer;
+}
+button i{
+    font-size: 1rem;
+    border: none;
+    background: white;
+}
+#laugh{
+    color: rgb(32, 82, 32);
+}
+#smile{
+    color: green;
+}
+#flushed{
+    color: rgb(138, 216, 12);
+}
+#frown{
+    color: orange;
+}
+#tear{
+    color: rgb(255, 60, 0);
+}
