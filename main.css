@@ -21,3 +21,9 @@ button i{
 #tear{
     color: rgb(255, 60, 0);
 }
+#month table button{
+    background: grey;
+    border: none;
+    border-radius: 5px;
+    color:
+}
